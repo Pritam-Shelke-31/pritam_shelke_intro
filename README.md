@@ -1,5 +1,5 @@
 <!-- 
-  Place this in a repo named `kvp1703` so it shows up on your profile.
+  Place this in a repo named `Pritam-Shelke-31` so it shows up on your profile.
   Inspired by Apple's clean design with modern animations and minimalism
 -->
 
@@ -17,7 +17,7 @@
   </div>
   
   <div class="typing-animation-container">
-    <a href="https://github.com/kvp1703">
+    <a href="https://github.com/Pritam-Shelke-31">
       <img 
         src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00BFFF¢er=true&vCenter=true&random=false&width=435&lines=Hi+there%2C+I'm+Pritam+Shelke+%F0%9F%9A%80;Associate+Software+Engineer;Firmware+%26+IoT+Developer;Competitive+Programmer;Always+Learning+New+Things" 
         alt="Typing SVG" 
@@ -29,16 +29,16 @@
 
 <!-- Profile Stats with Smooth Transitions -->
 <div class="stats-grid">
-  <a href="https://github.com/kvp1703">
+  <a href="https://github.com/Pritam-Shelke-31">
     <img 
-      src="https://komarev.com/ghpvc/?username=kvp1703&style=flat-square&color=blueviolet" 
+      src="https://komarev.com/ghpvc/?username=Pritam-Shelke-31&style=flat-square&color=blueviolet" 
       alt="Profile Views" 
       class="stat-badge"
     />
   </a>
-  <a href="https://github.com/kvp1703?tab=followers">
+  <a href="https://github.com/Pritam-Shelke-31?tab=followers">
     <img 
-      src="https://img.shields.io/github/followers/kvp1703?style=flat-square&logo=github&color=blueviolet" 
+      src="https://img.shields.io/github/followers/Pritam-Shelke-31?style=flat-square&logo=github&color=blueviolet" 
       alt="Followers" 
       class="stat-badge"
     />
@@ -48,25 +48,7 @@
 <!-- Badges Section with Modern Layout -->
 <div class="badges-section">
   <div class="badge-card">
-    <a href="https://www.codechef.com/users/kshitijvpatil">
-      <img 
-        src="https://img.shields.io/badge/CodeChef-5%20★-FFD700?style=for-the-badge&logo=codechef&logoColor=white" 
-        alt="CodeChef 5★" 
-        class="badge"
-      />
-    </a>
-  </div>
-  <div class="badge-card">
-    <a href="https://codeforces.com/profile/kshitijvpatil">
-      <img 
-        src="https://img.shields.io/badge/Codeforces-1426-0099ff?style=for-the-badge&logo=codeforces&logoColor=white" 
-        alt="CF 1426" 
-        class="badge"
-      />
-    </a>
-  </div>
-  <div class="badge-card">
-    <a href="https://leetcode.com/kvp1703/">
+    <a href="https://leetcode.com/Pritam-Shelke-31/">
       <img 
         src="https://img.shields.io/badge/LeetCode-1770-orange?style=for-the-badge&logo=leetcode&logoColor=white" 
         alt="LC 1770" 
@@ -147,36 +129,27 @@
 <!-- Connect Section with Modern Layout -->
 <h2 class="section-title">📫 Get In Touch</h2>
 <div class="connect-grid">
-  <a href="mailto:kshitijvpatil1703@gmail.com">
+  <a href="mailto:pritamshelke14@gmail.com">
     <img 
       src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
       alt="Email" 
       class="connect-badge"
     />
   </a>
-  <a href="https://linkedin.com/in/kvp1703">
+  <a href="[https://linkedin.com/in/Pritam-Shelke-31](https://www.linkedin.com/in/pritam-shelke-68a399184/)">
     <img 
       src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" 
       alt="LinkedIn" 
       class="connect-badge"
     />
   </a>
-  <a href="https://github.com/kvp1703">
+  <a href="https://github.com/Pritam-Shelke-31">
     <img 
       src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" 
       alt="GitHub" 
       class="connect-badge"
     />
   </a>
-</div>
-
-<!-- Contribution Graph with Smooth Animation -->
-<div class="contribution-section">
-  <img 
-    src="https://raw.githubusercontent.com/kvp1703/kvp1703/main/github-contribution-grid-snake.svg" 
-    alt="snake" 
-    class="contribution-graph"
-  />
 </div>
 
 <!-- Footer with Subtle Animation -->
