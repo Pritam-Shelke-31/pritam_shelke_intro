@@ -136,7 +136,7 @@
       class="connect-badge"
     />
   </a>
-  <a href="[https://linkedin.com/in/Pritam-Shelke-31](https://www.linkedin.com/in/pritam-shelke-68a399184/)">
+   <a href="https://www.linkedin.com/in/pritam-shelke-68a399184/">
     <img 
       src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" 
       alt="LinkedIn" 
