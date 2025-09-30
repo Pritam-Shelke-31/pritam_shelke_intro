@@ -82,7 +82,7 @@
 <h2 class="section-title">👨‍💻 About Me</h2>
 <p class="about-text">
   I’m an <strong>Associate Software Engineer</strong> at Espressif Systems, passionate about building robust and efficient solutions for the IoT world.<br />
-  Graduated from <strong>VIT Pune ’23</strong>, my expertise lies in embedded systems, firmware development (especially with <strong>FreeRTOS & ESP-IDF</strong>),<br />
+  Graduated from <strong>PICT Pune ’22</strong>, my expertise lies in embedded systems, firmware development (especially with <strong>FreeRTOS & ESP-IDF</strong>),<br />
   protocol integration, and creating memory-optimized applications. <br />
   I thrive on challenges and enjoy diving deep into system-level programming and competitive coding.
 </p>
@@ -135,63 +135,11 @@
 
 ---
 
-<!-- GitHub Stats Section with Smooth Animations -->
-<h2 class="section-title">📊 GitHub Stats & Activity</h2>
-<div class="stats-grid">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=kvp1703&show_icons=true&theme=tokyonight&rank_icon=github&count_private=true&hide_border=true" 
-    alt="Kshitij's GitHub Stats" 
-    class="stat-card"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kvp1703&layout=compact&theme=tokyonight&hide_border=true" 
-    alt="Top Languages" 
-    class="stat-card"
-  />
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=kvp1703&theme=tokyonight&hide_border=true" 
-    alt="GitHub Streak" 
-    class="stat-card"
-  />
-</div>
-
----
-
-<!-- Projects Section with Modern Card Layout -->
-<h2 class="section-title">🚀 Highlighted Projects</h2>
-<details class="project-details">
-  <summary class="project-summary">Click to view Projects</summary>
-  <div class="projects-grid">
-    <div class="project-card">
-      <h3>OptimOS</h3>
-      <p>Building a custom kernel from scratch, implementing multitasking, memory management, and ELF loading. Deep dive into OS fundamentals.</p>
-      <div class="project-tags">C | Assembly | Operating Systems</div>
-    </div>
-    <div class="project-card">
-      <h3>Project Kuber</h3>
-      <p>Developed an event-driven trading framework for Indian markets, achieving 23% simulated returns. Focused on low-latency and robustness.</p>
-      <div class="project-tags">Python | AsyncIO | WebSockets | Trading APIs</div>
-    </div>
-    <div class="project-card">
-      <h3>Drivable Road Detection</h3>
-      <p>Applied classical ML techniques (SVM, Image Processing) for autonomous driving, achieving 86.48% accuracy on test datasets.</p>
-      <div class="project-tags">Python | OpenCV | Scikit-learn | Machine Learning</div>
-    </div>
-  </div>
-</details>
-
----
-
 <!-- Learning & Fun Sections with Subtle Animations -->
 <h2 class="section-title">🌱 Currently Exploring & Learning</h2>
 <p class="learning-text">
   Always eager to learn! Currently diving deeper into: <br/>
   <strong>Advanced RTOS Concepts</strong> | <strong>Rust for Embedded</strong> | <strong>System Design Principles</strong> | <strong>Cloud IoT Platforms (AWS/Azure)</strong>
-</p>
-
-<h2 class="section-title">⚡ Fun Fact</h2>
-<p class="fun-fact">
-  I once spent an entire weekend debugging a single Heisenbug caused by a race condition in an ISR... and loved every frustrating minute of it! 🤓
 </p>
 
 ---
