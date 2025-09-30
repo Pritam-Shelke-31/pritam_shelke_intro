@@ -19,7 +19,7 @@
   <div class="typing-animation-container">
     <a href="https://github.com/kvp1703">
       <img 
-        src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00BFFF¢er=true&vCenter=true&random=false&width=435&lines=Hi+there%2C+I'm+Kshitij+Patil+%F0%9F%9A%80;Associate+Software+Engineer;Firmware+%26+IoT+Developer;Competitive+Programmer;Always+Learning+New+Things" 
+        src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00BFFF¢er=true&vCenter=true&random=false&width=435&lines=Hi+there%2C+I'm+Pritam+Shelke+%F0%9F%9A%80;Associate+Software+Engineer;Firmware+%26+IoT+Developer;Competitive+Programmer;Always+Learning+New+Things" 
         alt="Typing SVG" 
         class="typing-animation"
       />
