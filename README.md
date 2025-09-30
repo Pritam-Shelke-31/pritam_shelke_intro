@@ -48,7 +48,7 @@
 <!-- Badges Section with Modern Layout -->
 <div class="badges-section">
   <div class="badge-card">
-    <a href="https://leetcode.com/Pritam-Shelke-31/">
+    <a href="https://leetcode.com/u/pritamdshelke/">
       <img 
         src="https://img.shields.io/badge/LeetCode-1889-orange?style=for-the-badge&logo=leetcode&logoColor=white" 
         alt="LC 1889" 
